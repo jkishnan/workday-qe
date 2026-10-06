@@ -1,0 +1,7 @@
+2026-10-05 10:00:01 INFO Integration job started
+2026-10-05 10:00:02 INFO Reading employee file
+2026-10-05 10:00:03 INFO Processing employee 1001
+2026-10-05 10:00:04 WARNING Employee 1031 has invalid salary
+2026-10-05 10:00:05 ERROR Employee 1472 missing from outbound file
+2026-10-05 10:00:06 ERROR Employee 1831 missing from outbound file
+2026-10-05 10:00:07 INFO Integration job completed
